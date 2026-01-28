@@ -43,7 +43,8 @@ Employee-Management-System/
 │── README.md
 
 ---
-##🧾 Employee Details Managed
+
+## 🧾 Employee Details Managed
 
 -Employee ID
 
@@ -60,5 +61,13 @@ Employee-Management-System/
 -Salary
 
 -Date of Joining
+
+
+---
+## 👨‍💻 Author
+
+## Karan Panda
+Web Developer | Django Backend & Full-Stack Enthusiast
+LinkedIn: https://www.linkedin.com/in/karan-panda-57ba373a7
 
 
